@@ -28,8 +28,8 @@ background-color: #121214;
 }
 
 section {
-    margin-botton: 30px;
-    backgroud:#202024;
+    margin-bottom: 30px;
+    background: #202024;
     padding: 20px;
     border-radius:8px;
 }
@@ -44,7 +44,7 @@ ul {
 }
 
 li {
-    margin-botom:5px;
+    margin-bottom:5px;
 }
 .rodape {
     text-align:center;
